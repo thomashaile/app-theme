@@ -1,6 +1,4 @@
 
-#READ ME
-
 
 # App-Theme 
 ---
